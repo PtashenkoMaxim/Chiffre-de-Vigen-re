@@ -24,3 +24,4 @@ function Decode(){
     }
     alert(code);
 }
+неужели понял
