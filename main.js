@@ -31,7 +31,6 @@ function Encode(){
     let key = document.getElementById("key").value;
     const result = new Algoritm(text, key)
     let code = result.EncDecode(true);
-    console.log(result)
     alert(code);
 }
 function Decode(){
